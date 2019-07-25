@@ -1,0 +1,9 @@
+This repository contains all the necessary material to replicate our results in the manuscript entitled:
+"Drugs modulating stochastic gene expression affect the erythroid differentiation process"
+
+The ./scripts folder contains python libraries (.py) and jupyter notebooks (.ipynb). The libraries encode all the functions necessary to our computations. The notebooks apply them to our data and replicate the figures of the paper. All pieces of this code have been developped on linux (Ubuntu 16.04) and MacOS platforms, so they probably won't work on windows.
+
+The ./data folder contains the raw cell counts used for the study, as well as the results of all our notebooks (in one directory per notebook)
+
+The ./figures folder contains one folder per jupyter notebook, and stores all the figures used in the paper.
+
